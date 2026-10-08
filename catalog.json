@@ -9124,6 +9124,468 @@
     ]
   },
   {
+    "name": "rosselli-foliate-border",
+    "description": "A repeating Renaissance border of paired acanthus leaves and curling foliate stems.",
+    "categories": [
+      "botanical",
+      "scrollwork",
+      "floral"
+    ],
+    "subjects": [
+      "leaf",
+      "scroll",
+      "flower",
+      "finial"
+    ],
+    "colors": [
+      "brown",
+      "gray",
+      "cream"
+    ],
+    "facing": "unclear",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+      "object_identifier": "29.16.3",
+      "date": "1490-1500",
+      "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "artist": "Francesco Rosselli",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-border-patterns.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+      "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+    },
+    "png": "png/rosselli-foliate-border.png",
+    "webp": "webp/rosselli-foliate-border.webp",
+    "width": 274,
+    "height": 438,
+    "png_bytes": 309999,
+    "webp_bytes": 214392,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rosselli-foliate-border.png",
+        "webp": "webp/128/rosselli-foliate-border.webp",
+        "width": 80,
+        "height": 128,
+        "png_bytes": 33148,
+        "webp_bytes": 22328
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rosselli-foliate-border.png",
+        "webp": "webp/256/rosselli-foliate-border.webp",
+        "width": 160,
+        "height": 256,
+        "png_bytes": 119119,
+        "webp_bytes": 83236
+      }
+    ],
+    "kind": "repeat-tile",
+    "composition": "repeat-tile",
+    "repeat_axis": "y",
+    "derivation": "ai-assisted-extraction",
+    "reference": "met-356741",
+    "source_pattern": "One full paired foliate cycle in the upper two matching sections; the distinct lower terminal is excluded.",
+    "source_canvas": {
+      "width": 274,
+      "height": 1400
+    },
+    "master_longest_dimension_cap": 438,
+    "repeat_ratio": 1.5985401459854014,
+    "frame_edge_ratio": 1.5985401459854014,
+    "border_image_slice_percent": 27.789046653144016,
+    "frame_fit": "round",
+    "corner_method": "source-derived-ai-adaptation",
+    "components": {
+      "corner": {
+        "png": "png/rosselli-foliate-border-corner.png",
+        "webp": "webp/rosselli-foliate-border-corner.webp",
+        "width": 274,
+        "height": 274,
+        "png_bytes": 193624,
+        "webp_bytes": 130860,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/rosselli-foliate-border-corner.png",
+            "webp": "webp/128/rosselli-foliate-border-corner.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 47123,
+            "webp_bytes": 34086
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/rosselli-foliate-border-corner.png",
+            "webp": "webp/256/rosselli-foliate-border-corner.webp",
+            "width": 256,
+            "height": 256,
+            "png_bytes": 173001,
+            "webp_bytes": 118306
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/rosselli-foliate-border-border.png",
+        "webp": "webp/rosselli-foliate-border-border.webp",
+        "width": 986,
+        "height": 986,
+        "png_bytes": 1995107,
+        "webp_bytes": 1415284,
+        "variants": [
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 493,
+            "png": "png/512/rosselli-foliate-border-border.png",
+            "webp": "webp/512/rosselli-foliate-border-border.webp",
+            "width": 493,
+            "height": 493,
+            "png_bytes": 568501,
+            "webp_bytes": 395550
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 493,
+            "png": "png/768/rosselli-foliate-border-border.png",
+            "webp": "webp/768/rosselli-foliate-border-border.webp",
+            "width": 493,
+            "height": 493,
+            "png_bytes": 568501,
+            "webp_bytes": 395550
+          }
+        ],
+        "slice_pixels": 274
+      },
+      "rotated_tile": {
+        "png": "png/rosselli-foliate-border-rotated.png",
+        "webp": "webp/rosselli-foliate-border-rotated.webp",
+        "width": 438,
+        "height": 274,
+        "png_bytes": 308504,
+        "webp_bytes": 213970,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/rosselli-foliate-border-rotated.png",
+            "webp": "webp/128/rosselli-foliate-border-rotated.webp",
+            "width": 128,
+            "height": 80,
+            "png_bytes": 32799,
+            "webp_bytes": 22278
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/rosselli-foliate-border-rotated.png",
+            "webp": "webp/256/rosselli-foliate-border-rotated.webp",
+            "width": 256,
+            "height": 160,
+            "png_bytes": 118082,
+            "webp_bytes": 81762
+          }
+        ],
+        "repeat_axis": "x",
+        "repeat_ratio": 1.5985401459854014
+      },
+      "reference_crop": {
+        "png": "png/rosselli-foliate-border-reference.png",
+        "webp": "webp/rosselli-foliate-border-reference.webp",
+        "width": 274,
+        "height": 438,
+        "png_bytes": 309703,
+        "webp_bytes": 214178,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/rosselli-foliate-border-reference.png",
+            "webp": "webp/128/rosselli-foliate-border-reference.webp",
+            "width": 80,
+            "height": 128,
+            "png_bytes": 33149,
+            "webp_bytes": 22300
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/rosselli-foliate-border-reference.png",
+            "webp": "webp/256/rosselli-foliate-border-reference.webp",
+            "width": 160,
+            "height": 256,
+            "png_bytes": 119071,
+            "webp_bytes": 83246
+          }
+        ]
+      }
+    },
+    "asset_type": "border",
+    "has_transparency": true,
+    "usage_notes": [
+      "Native phase crop from the approved AI-assisted historical extraction; interior pixels are unchanged. Only a two-pixel join collar is averaged.",
+      "Corners are modern AI-assisted foliate adaptations with exact connecting profiles, not recovered historical motifs. Use the supplied atlas with round fitting.",
+      "PNG/WebP only: no vector redraw is supplied.",
+      "Repeats originally vertically; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
+    "name": "rosselli-mask-border",
+    "description": "A repeating Renaissance border of alternating human masks and leafy scrolls.",
+    "categories": [
+      "botanical",
+      "scrollwork",
+      "floral",
+      "humans"
+    ],
+    "subjects": [
+      "leaf",
+      "scroll",
+      "mask"
+    ],
+    "colors": [
+      "brown",
+      "gray",
+      "cream"
+    ],
+    "facing": "unclear",
+    "provenance": {
+      "institution": "The Metropolitan Museum of Art",
+      "title": "Sheet of border segments: vertical floral ornament, horizontal frieze, four corners",
+      "object_identifier": "29.16.3",
+      "date": "1490-1500",
+      "record_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "artist": "Francesco Rosselli",
+      "image_rights": "Public Domain",
+      "rights_url": "https://www.metmuseum.org/art/collection/search/356741",
+      "method": "ai-assisted-extraction",
+      "audit": "historical-border-patterns.json",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP833949.jpg",
+      "source_sha256": "98d28d964a4d99da22c8195476ad3c632a032b850f3ee3efe3ef019515dd88f8"
+    },
+    "png": "png/rosselli-mask-border.png",
+    "webp": "webp/rosselli-mask-border.webp",
+    "width": 270,
+    "height": 290,
+    "png_bytes": 208323,
+    "webp_bytes": 140584,
+    "variants": [
+      {
+        "max_dimension": 128,
+        "rendered_max_dimension": 128,
+        "png": "png/128/rosselli-mask-border.png",
+        "webp": "webp/128/rosselli-mask-border.webp",
+        "width": 119,
+        "height": 128,
+        "png_bytes": 46263,
+        "webp_bytes": 32772
+      },
+      {
+        "max_dimension": 256,
+        "rendered_max_dimension": 256,
+        "png": "png/256/rosselli-mask-border.png",
+        "webp": "webp/256/rosselli-mask-border.webp",
+        "width": 238,
+        "height": 256,
+        "png_bytes": 169067,
+        "webp_bytes": 114982
+      }
+    ],
+    "kind": "repeat-tile",
+    "composition": "repeat-tile",
+    "repeat_axis": "y",
+    "derivation": "ai-assisted-extraction",
+    "reference": "met-356741",
+    "source_pattern": "One full human-mask and foliate-scroll cycle; the original print visibly repeats this alternation four times.",
+    "source_canvas": {
+      "width": 270,
+      "height": 1400
+    },
+    "master_longest_dimension_cap": 290,
+    "repeat_ratio": 1.0740740740740742,
+    "frame_edge_ratio": 1.0740740740740742,
+    "border_image_slice_percent": 32.53012048192771,
+    "frame_fit": "round",
+    "corner_method": "source-derived-ai-adaptation",
+    "components": {
+      "corner": {
+        "png": "png/rosselli-mask-border-corner.png",
+        "webp": "webp/rosselli-mask-border-corner.webp",
+        "width": 270,
+        "height": 270,
+        "png_bytes": 197671,
+        "webp_bytes": 130682,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/rosselli-mask-border-corner.png",
+            "webp": "webp/128/rosselli-mask-border-corner.webp",
+            "width": 128,
+            "height": 128,
+            "png_bytes": 50184,
+            "webp_bytes": 35782
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/rosselli-mask-border-corner.png",
+            "webp": "webp/256/rosselli-mask-border-corner.webp",
+            "width": 256,
+            "height": 256,
+            "png_bytes": 181822,
+            "webp_bytes": 121964
+          }
+        ]
+      },
+      "border_image": {
+        "png": "png/rosselli-mask-border-border.png",
+        "webp": "webp/rosselli-mask-border-border.webp",
+        "width": 830,
+        "height": 830,
+        "png_bytes": 1588583,
+        "webp_bytes": 1091582,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 83,
+            "png": "png/128/rosselli-mask-border-border.png",
+            "webp": "webp/128/rosselli-mask-border-border.webp",
+            "width": 83,
+            "height": 83,
+            "png_bytes": 20748,
+            "webp_bytes": 13872
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 249,
+            "png": "png/256/rosselli-mask-border-border.png",
+            "webp": "webp/256/rosselli-mask-border-border.webp",
+            "width": 249,
+            "height": 249,
+            "png_bytes": 173168,
+            "webp_bytes": 114896
+          },
+          {
+            "max_dimension": 512,
+            "rendered_max_dimension": 498,
+            "png": "png/512/rosselli-mask-border-border.png",
+            "webp": "webp/512/rosselli-mask-border-border.webp",
+            "width": 498,
+            "height": 498,
+            "png_bytes": 633934,
+            "webp_bytes": 432390
+          },
+          {
+            "max_dimension": 768,
+            "rendered_max_dimension": 747,
+            "png": "png/768/rosselli-mask-border-border.png",
+            "webp": "webp/768/rosselli-mask-border-border.webp",
+            "width": 747,
+            "height": 747,
+            "png_bytes": 1336844,
+            "webp_bytes": 920752
+          }
+        ],
+        "slice_pixels": 270
+      },
+      "rotated_tile": {
+        "png": "png/rosselli-mask-border-rotated.png",
+        "webp": "webp/rosselli-mask-border-rotated.webp",
+        "width": 290,
+        "height": 270,
+        "png_bytes": 207736,
+        "webp_bytes": 140372,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/rosselli-mask-border-rotated.png",
+            "webp": "webp/128/rosselli-mask-border-rotated.webp",
+            "width": 128,
+            "height": 119,
+            "png_bytes": 45942,
+            "webp_bytes": 32674
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/rosselli-mask-border-rotated.png",
+            "webp": "webp/256/rosselli-mask-border-rotated.webp",
+            "width": 256,
+            "height": 238,
+            "png_bytes": 168293,
+            "webp_bytes": 114592
+          }
+        ],
+        "repeat_axis": "x",
+        "repeat_ratio": 1.0740740740740742
+      },
+      "reference_crop": {
+        "png": "png/rosselli-mask-border-reference.png",
+        "webp": "webp/rosselli-mask-border-reference.webp",
+        "width": 270,
+        "height": 290,
+        "png_bytes": 208070,
+        "webp_bytes": 140050,
+        "variants": [
+          {
+            "max_dimension": 128,
+            "rendered_max_dimension": 128,
+            "png": "png/128/rosselli-mask-border-reference.png",
+            "webp": "webp/128/rosselli-mask-border-reference.webp",
+            "width": 119,
+            "height": 128,
+            "png_bytes": 46229,
+            "webp_bytes": 32786
+          },
+          {
+            "max_dimension": 256,
+            "rendered_max_dimension": 256,
+            "png": "png/256/rosselli-mask-border-reference.png",
+            "webp": "webp/256/rosselli-mask-border-reference.webp",
+            "width": 238,
+            "height": 256,
+            "png_bytes": 168950,
+            "webp_bytes": 115018
+          }
+        ]
+      }
+    },
+    "asset_type": "border",
+    "has_transparency": true,
+    "usage_notes": [
+      "Native phase crop from the approved AI-assisted historical extraction; interior pixels are unchanged. Only a two-pixel join collar is averaged.",
+      "Corners are modern AI-assisted foliate adaptations with exact connecting profiles, not recovered historical motifs. Use the supplied atlas with round fitting.",
+      "PNG/WebP only: no vector redraw is supplied.",
+      "Repeats originally vertically; use the matching rotated tile for the other axis and the supplied atlas with round fitting for frames.",
+      "AI-assisted extraction can reinterpret details; this is not a pixel-exact historical crop."
+    ],
+    "uses": [
+      "frame",
+      "divider"
+    ],
+    "formats": [
+      "webp",
+      "png"
+    ]
+  },
+  {
     "name": "russet-floral-vine-with-bud-borders",
     "svg": "svg/russet-floral-vine-with-bud-borders.svg",
     "viewbox": [
